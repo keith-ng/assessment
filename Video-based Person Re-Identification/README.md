@@ -73,13 +73,13 @@ Given the focus of projects on security and retail, we test the model on a video
 >> insert result observations here
 
 - If the model did not perform up to standard, there are some possible solutions
-  1. Provide a more exhaustive dataset
-    - Larger sample size
-  2. Provide a more relevant dataset
-    - Images or frames closer to the test images/videos or future input
-    - If unavailable, take some samples and personally annotate them
-  3. Identify any reasons that may impact the algorithm
-    - Eg. location where test or input images/frames are taken may be poorly lit resulting in the algorithm's inability to generate ideal results
+1. Provide a more exhaustive dataset
+  - Larger sample size
+2. Provide a more relevant dataset
+  - Images or frames closer to the test images/videos or future input
+  - If unavailable, take some samples and personally annotate them
+3. Identify any reasons that may impact the algorithm
+  - Eg. location where test or input images/frames are taken may be poorly lit resulting in the algorithm's inability to generate ideal results
 
 
 ### Acknowledgement:
