@@ -52,12 +52,12 @@ To create a robust model, we seek to train the algorithm with a dataset that is 
 
 **Selection Criteria**:
 - Applicability:
-  - Since the application is undefined, we seek to implement a flexible model that performs well in as many situations as possible.
+  - Since the application is undefined, we seek to implement a flexible model that performs well in as many situations as possible
     - To achieve this, the model should return a respectable score with the iLIDs dataset as there may be cases where the model has to be retrained with new data and we have some level of assurance that it can perform well with small datasets
 - Feasibility:
-  - With access to only a local terminal to test the model, a large and complex dataset may prove to be unfeasible to train and test.
+  - With access to only a local terminal to test the model, a large and complex dataset may prove to be unfeasible to train and test
 - Model Accuracy:
-  - The selected model ideally will perform well with different datasets as it will increase the likelihood of it performing well in new unseen data.
+  - The selected model ideally will perform well with different datasets as it will increase the likelihood of it performing well in new unseen data
   - The model PiT obtained the highest scores for 4 metrics with the iLIDS-VID dataset and top 3 for 4 metrics with the MARS dataset
 
 **Conclusion:**
