@@ -60,8 +60,8 @@ To create a robust model, we seek to train the algorithm with a dataset that is 
   - The selected model ideally will perform well with different datasets as it will increase the likelihood of it performing well in new unseen data.
   - The model PiT obtained the highest scores for 4 metrics with the iLIDS-VID dataset and top 3 for 4 metrics with the MARS dataset
 
-**Conclusion**
-All things considered, the PiT model is most appropriate for our use case and is selected as the ideal video-based person reidentification algorithm for the following reasons:
+**Conclusion:**
+all things considered, the PiT model is most appropriate for our use case and is selected as the ideal video-based person reidentification algorithm for the following reasons:
   1. Consistent when tested with different datasets & metrics
   2. File is somewhat large for a local terminal but is manageable
   3. Image quality of the dataset (MARS) it performed well on seems to be closest to a typical image produced by a typical camera used today
